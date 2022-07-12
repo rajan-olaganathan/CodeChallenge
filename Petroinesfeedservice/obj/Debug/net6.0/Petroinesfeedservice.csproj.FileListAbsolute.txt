@@ -1,0 +1,14 @@
+E:\DemoProject\Petroinesfeedservice\bin\Debug\net6.0\Petroinesfeedservice.deps.json
+E:\DemoProject\Petroinesfeedservice\bin\Debug\net6.0\Petroinesfeedservice.dll
+E:\DemoProject\Petroinesfeedservice\bin\Debug\net6.0\Petroinesfeedservice.pdb
+E:\DemoProject\Petroinesfeedservice\bin\Debug\net6.0\PowerService.dll
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.csproj.AssemblyReference.cache
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.AssemblyInfoInputs.cache
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.AssemblyInfo.cs
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.csproj.CoreCompileInputs.cache
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.csproj.CopyComplete
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.dll
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\refint\Petroinesfeedservice.dll
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\Petroinesfeedservice.pdb
+E:\DemoProject\Petroinesfeedservice\obj\Debug\net6.0\ref\Petroinesfeedservice.dll
